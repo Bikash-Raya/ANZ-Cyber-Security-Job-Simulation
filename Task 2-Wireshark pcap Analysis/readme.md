@@ -29,7 +29,8 @@ You will need to use **Wireshark** and a **Hex editor** to fully investigate the
 ---
 
 
-## 👤 Analyst Instruction
+## 👤 My Findings and Answer.
 
-This investigation should be conducted using forensic best practices.  
-All conclusions must be supported by evidence extracted from the PCAP file.
+The final answers and findings for this task are documented in the following file:
+
+👉 [Task 2 - Answers.pdf](Task%202%20-%20Answers.pdf)
