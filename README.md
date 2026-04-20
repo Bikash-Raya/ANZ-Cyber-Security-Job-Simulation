@@ -1,90 +1,138 @@
-# ANZ-Cyber-Security-Job-Simulation
-# ANZ Cybersecurity Virtual Internship
+<div align="center">
 
-![ANZ Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Australia_and_New_Zealand_Banking_Group_logo.svg/1200px-Australia_and_New_Zealand_Banking_Group_logo.svg.png)
+# 🛡️ ANZ Cyber Security Management Simulation
 
-## 📋 Overview
+### Forage Virtual Experience Program
 
-This repository contains my completed work for the **ANZ Cybersecurity Virtual Experience Program** hosted on [Forage](https://www.theforage.com/). The program simulates real-world cybersecurity tasks that ANZ's Cyber Security team handles daily.
+[![Cybersecurity](https://img.shields.io/badge/Domain-Network%20Forensics-blue?style=for-the-badge)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com)
+[![Forage](https://img.shields.io/badge/Platform-Forage-orange?style=for-the-badge)](https://www.theforage.com)
 
-## 🎯 Program Objectives
-
-- Investigate suspicious emails and identify phishing attempts
-- Analyze social engineering tactics used by attackers
-- Conduct digital investigations
-- Apply cybersecurity best practices in real-world scenarios
-
-## 📁 Repository Structure
-
-| Folder | Description |
-|--------|-------------|
-| `Task1-Email-Analysis/` | Phishing email investigation and analysis |
-| `Task2-Digital-Investigation/` | Digital forensics and investigation task |
-| `Certificates/` | Program completion certificate |
-
-## 🔍 Task Summaries
-
-### Task 1: Social Engineering Investigation
-- **Objective:** Analyze 7 emails and identify which are malicious
-- **Skills:** Phishing detection, URL analysis, social engineering awareness
-- **Outcome:** Successfully identified phishing attempts using various indicators
-
-### Task 2: Digital Investigation
-- **Objective:** Conduct a digital investigation based on provided scenario
-- **Skills:** Digital forensics, incident response, evidence analysis
-- **Outcome:** Completed investigation with detailed findings
-
-## 🛠️ Skills Demonstrated
-
-- ✅ Phishing Email Analysis
-- ✅ Social Engineering Detection
-- ✅ URL/Domain Analysis
-- ✅ Threat Identification
-- ✅ Incident Investigation
-- ✅ Security Awareness
-- ✅ Report Writing
-
-## 📚 Key Learnings
-
-1. **Phishing Indicators:**
-   - Suspicious sender domains (e.g., .ru domains for Microsoft emails)
-   - URL manipulation and typosquatting
-   - Urgency and fear tactics
-   - Requests for sensitive information
-
-2. **Social Engineering Tactics:**
-   - Authority impersonation
-   - Creating false urgency
-   - Pretext scenarios
-   - Credential harvesting
-
-3. **Best Practices:**
-   - Always verify sender domains
-   - Hover over links before clicking
-   - Report suspicious emails to security teams
-   - Never share credentials via email
-
-## 🔗 Resources
-
-- [ANZ Cybersecurity Program on Forage](https://www.theforage.com/virtual-internships/prototype/Hf4QMESoFeQwXPsiH/Cybersecurity-Virtual-Program)
-- [OWASP Phishing Guide](https://owasp.org/www-community/attacks/Phishing)
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-
-## 📜 Certificate
-
-Upon completion, I received a certificate from ANZ and Forage validating the skills demonstrated in this program.
-
-## 👤 Author
-
-**[Your Name]**
-
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Phishing-Detection-red?style=flat-square" />
+<img src="https://img.shields.io/badge/File%20Carving-Forensics-purple?style=flat-square" />
 
 ---
 
-⭐ If you found this helpful, please consider giving it a star!
+**Completed by:** Bikash Raya  
+**Date:** ADD DATE
+
+</div>
+
+---
+
+## 📋 Overview
+
+This repository documents my completion of the **ANZ Cyber Security Management Virtual Experience Program**.  
+The simulation focused on **phishing detection** and **network forensics**, involving real-world analysis of suspicious emails and packet capture (PCAP) data.
+
+---
+
+## 🎯 Simulation Objectives
+
+| Task | Description | Status |
+|------|-------------|--------|
+| **Task 1** | Social Engineering Investigation (Phishing Analysis) | ✅ Completed |
+| **Task 2** | Digital Investigation (PCAP Network Forensics) | ✅ Completed |
+
+---
+
+## 🔍 What I Did
+
+- 📧 Analysed phishing emails to identify malicious patterns and social engineering tactics  
+- 🌐 Investigated network traffic using packet capture (.pcap) files  
+- 🧪 Performed file carving from raw network streams  
+- 🔐 Recovered hidden and encoded data (Base64, embedded content)  
+- 🕵️ Identified suspicious artifacts including images, documents, and archives  
+- 📊 Correlated findings to detect potential malicious activity  
+
+---
+
+## 📁 Repository Structure
+
+| Directory | Description |
+|-----------|-------------|
+| [📂 Task-1-Phishing-Analysis](./Task-1-Phishing-Analysis) | Email investigation and phishing detection |
+| [📂 Task-2-PCAP-Investigation](./Task-2-PCAP-Investigation) | Network traffic analysis and file extraction |
+
+---
+
+## 🧠 Skills Demonstrated
+
+<div align="center">
+
+| Technical Skills | Tools & Technologies | Concepts |
+|------------------|---------------------|----------|
+| Network Traffic Analysis | Wireshark | Packet Inspection |
+| Phishing Detection | HxD Hex Editor | Social Engineering |
+| File Carving | HTTP Stream Analysis | Data Encoding |
+| Digital Forensics | Base64 Decoding | Steganography Awareness |
+
+</div>
+
+---
+
+## 🔬 Key Technical Findings
+
+### 📧 Phishing Investigation
+- Identified **4 malicious emails** out of 7 samples  
+- Detected:
+  - Suspicious sender domains  
+  - Malicious/obfuscated URLs  
+  - Social engineering indicators (urgency, formatting anomalies)  
+
+---
+
+### 🌐 Network Forensics (PCAP Analysis)
+
+- Filtered HTTP traffic to isolate relevant activity  
+- Identified:
+  - Abnormal GET request patterns  
+  - Multiple file transfers (images, PDFs, DOCX)  
+- Followed TCP streams to reconstruct transmitted data  
+
+---
+
+### 🧪 Evidence Extraction
+
+- 🖼️ Extracted images using hex signatures:
+  - `FFD8` → Start of JPEG  
+  - `FFD9` → End of JPEG  
+
+- 🔍 Discovered:
+  - Hidden messages embedded within image streams  
+  - Encoded files (Base64 → PNG reconstruction)  
+  - Misleading file formats (e.g., .txt acting as image data)  
+
+---
+
+### 🔐 Advanced Findings
+
+- Recovered password-protected archive via traffic inspection  
+- Identified gzip-compressed content and extracted underlying files  
+- Detected covert data embedding techniques in network traffic  
+
+---
+
+## 🎯 Key Insight
+
+> Network traffic can contain hidden, encoded, or disguised data that requires deep inspection beyond standard filtering techniques.
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bikash-raya)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Bikash-Raya)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you found this helpful, consider giving it a star! ⭐**
+
+</div>
