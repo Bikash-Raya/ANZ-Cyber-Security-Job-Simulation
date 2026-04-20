@@ -1,5 +1,14 @@
 ## 📧 Task 1: Social Engineering Investigation (Phishing Analysis)
 
+<div align="center">
+
+![Task](https://img.shields.io/badge/Task-1%20of%202-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+
+</div>
+
+---
 ### 📋 Background information on your task
 
 You have been allocated a number of emails to investigate. Your job is to identify whether the emails are malicious or safe.
