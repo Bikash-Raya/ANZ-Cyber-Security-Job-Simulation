@@ -1,6 +1,14 @@
-# 🕵️ Network Traffic Investigation Task (PCAP Analysis)
+# 🕵️ Task 2: Network Traffic Investigation (PCAP Analysis)
 
----
+<div align="center">
+
+![Task](https://img.shields.io/badge/Task-2%20of%202-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Security-PCAP%20Forensics-red?style=for-the-badge)
+
+</div>
+
+----
 
 ## 📌 Background Information
 
