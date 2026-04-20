@@ -123,35 +123,13 @@ The simulation focused on **phishing detection** and **network forensics**, invo
 
 <div align="center">
 
-### 🛡️ Cyber Security Management Job Simulation  
-### ANZ | Forage Virtual Experience Program
-
 <img src="./certificate.png" alt="ANZ Cyber Security Certificate" width="700"/>
 
----
+**Verification Code:** `5mtvcu47a8rnj8ZFS`
 
-**Completed by:** Bikash Raya  
-**Date:** December 12th, 2023  
-
----
-
-### 🔐 Verification Details
-
-| Field | Value |
-|------|------|
-| Enrolment Verification Code | `5mtvcu47a8rnj8ZFS` |
-| User Verification Code | `HG5z6cFBsTiHgMNhb` |
-| Issued By | Forage |
-| Program Focus | Social Engineering + Digital Investigation |
-
----
-
-**Issued by:**  
-Cholena Orr — Graduate Program Manager, ANZ  
-Tom Brunskill — CEO & Co-Founder, Forage  
+*Issued by Forage | Signed by Cholena Orr, Graduate Program Manager, ANZ | Tom Brunskill, CEO & Co-Founder, Forage*
 
 </div>
-
 
 ## 🔗 Connect With Me
 
