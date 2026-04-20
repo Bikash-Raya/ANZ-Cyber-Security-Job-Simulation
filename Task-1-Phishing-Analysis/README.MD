@@ -11,31 +11,28 @@
 </div>
 
 ---
-### 📋 Background information on your task
+### 📋 Background Information on Your Task
 
-You have been allocated a number of emails to investigate. Your job is to identify whether the emails are malicious or safe.
+You have been allocated a number of emails to investigate. Your job is to determine whether each email is **malicious or safe**.
 
-If you identify malicious content within the emails, you will need to write a brief report detailing why it is malicious.
+If malicious content is identified, you must produce a brief report explaining why the email is considered malicious.
 
-Phishing is when someone attempts to fraudulently obtain your personal information and security credentials via an electronic message that impersonates a trustworthy entity. The message will often instruct you to follow a link and then enter your personal information.
+Phishing is a type of cyber attack where an attacker attempts to fraudulently obtain personal information or security credentials by impersonating a trusted entity through electronic communication. These messages often encourage users to click a link and submit sensitive information.
 
-To ensure that a website is a safe and genuine ANZ page, please make sure that you are on a secure website by checking if there is a Socket Layer (SSL) Certificate. To check that you are on a site with a SSL Certificate:
+To ensure a website is a safe and genuine ANZ page, verify that:
 
-→ Check the address bar of your browser to see if ANZs website address has changed from http:// to https://
+- The website uses a secure connection (HTTPS instead of HTTP)  
+- A padlock or security icon is visible in the browser address bar when entering sensitive information  
+- The SSL certificate details can be viewed by clicking the security icon in the browser  
 
-→ Check to see if a security icon that looks like a lock or a key is visible near the address bar on any page that you need to enter your security credentials. Clicking on the icon will provide you with more information about ANZ's SSL Certificate.
+To reduce the risk of falling victim to phishing attacks:
 
-To minimise your chances of becoming a victim of a Phishing scam:
+- Treat all emails requesting personal or financial information with caution, as ANZ will not request sensitive credentials via email  
+- Regularly update passwords for online accounts  
+- Keep antivirus software and firewalls updated and perform routine system scans  
+- If unsure about an email’s authenticity, contact the ANZ Customer Service Centre before clicking links or providing information  
 
-→ Treat all emails that request your personal information or security credentials with caution. ANZ will not send you an email asking for your personal information or your security credentials.
-
-→ If you use a password to access your online accounts, change it on a regular basis.
-
-→ Keep your anti-virus and firewalls up-to-date and perform regular scans of your computer.
-
-→ If you are unsure if the email is really from ANZ contact the Customer Service Centre before following any instructions or clicking on any links contained in the email.
-
----
+----
 
 
 ## 🎯 Task Instructions
