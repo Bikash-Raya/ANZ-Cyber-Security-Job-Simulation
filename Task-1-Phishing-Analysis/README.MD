@@ -37,18 +37,20 @@ To minimise your chances of becoming a victim of a Phishing scam:
 
 ---
 
-### 🎯 Task Instructions
+
+## 🎯 Task Instructions
 
 You have been assigned 7 emails to investigate. Some of these emails may contain content which can be classed as malicious, due to a number of reasons. They may contain malicious attachments, suspicious links, or Phishing attempts to gather private account information from the user.
 
 You are expected to report your findings on each email, so that we can either block or release these emails to the users.
 
-Please download the 'Emails to Investigate' pdf below to view the emails and then use the Answer Template to record your findings.
+Please download the 'Emails to Investigate' PDF below to view the emails and then use the Answer Template to record your findings.
 
-https://cdn.theforage.com/vinternships/companyassets/AKkAyEwWc8wjPxx9n/Task%201%20-%20Answer%20Template.docx
-
+📄 Emails to Investigate:  
 https://cdn.theforage.com/vinternships/companyassets/AKkAyEwWc8wjPxx9n/Emails%20to%20Investigate.pdf
----
+
+📄 Answer Template:  
+https://cdn.theforage.com/vinternships/companyassets/AKkAyEwWc8wjPxx9n/Task%201%20-%20Answer%20Template.docx
 
 ### 📁 My Work
 
