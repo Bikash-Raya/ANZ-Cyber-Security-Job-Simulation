@@ -1,10 +1,12 @@
-## 📧 Task 1: Social Engineering Investigation (Phishing Analysis)
+
+
+# 📧 Task 1: Social Engineering Investigation (Phishing Analysis)
 
 <div align="center">
 
 ![Task](https://img.shields.io/badge/Task-1%20of%202-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-
+![Focus](https://img.shields.io/badge/Security-Phishing%20Analysis-red?style=for-the-badge)
 
 </div>
 
