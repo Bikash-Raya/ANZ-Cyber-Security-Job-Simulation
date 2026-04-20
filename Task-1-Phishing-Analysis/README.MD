@@ -55,4 +55,4 @@ https://cdn.theforage.com/vinternships/companyassets/AKkAyEwWc8wjPxx9n/Task%201%
 ### 📁 My Work
 
 📄 Full Analysis Report:  
-👉 [Download Task 1 Report](./Task-1-Phishing-Analysis/Task1-Report.docx)
+👉 [Task 1 - Answer Report](./Task-1-Phishing-Analysis/Task1 - Phising Reports.pdf)
